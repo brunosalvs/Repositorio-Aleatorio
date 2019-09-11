@@ -21,7 +21,7 @@ SUBTITULO
 1. Lista Num
 2. Lsita Num 2
 
-* [] Não Marcado
+* [ ] Não Marcado
 * [x] Marcado
 
 Tabela
